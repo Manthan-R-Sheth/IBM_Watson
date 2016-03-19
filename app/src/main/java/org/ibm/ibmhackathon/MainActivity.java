@@ -47,11 +47,11 @@ public class MainActivity extends AppCompatActivity implements Callback<Document
 
     @Override
     public void onResponse(Call<DocumentFeatures> call, Response<DocumentFeatures> response) {
-        
+
     }
 
     @Override
     public void onFailure(Call<DocumentFeatures> call, Throwable t) {
-        Log.d("Error in the network call",t.toString());
+        Log.d("Error network call",t.toString());
     }
 }

@@ -10,8 +10,8 @@ import retrofit2.http.Query;
 
 public interface ApiMethods {
 
-    @GET("/get/curators.json")
+    @GET("")
     Call<DocumentFeatures> getFeatures(
-            @Query("api_key") String key
+            @Query("") String key
     );
 }
