@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IBMHackathon.iml" filepath="$PROJECT_DIR$/IBMHackathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IBM_Watson.iml" filepath="$PROJECT_DIR$/IBM_Watson.iml" />
       <module fileurl="file://$PROJECT_DIR$/alchemyapi/alchemyapi.iml" filepath="$PROJECT_DIR$/alchemyapi/alchemyapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

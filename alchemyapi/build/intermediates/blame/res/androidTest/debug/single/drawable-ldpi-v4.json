@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon.png"
+    },
+    {
         "merged": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/icon.png",
         "source": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon.png"
     }

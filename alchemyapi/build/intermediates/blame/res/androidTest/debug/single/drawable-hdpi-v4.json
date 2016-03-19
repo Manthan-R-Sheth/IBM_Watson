@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/kitten.jpg",
-        "source": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kitten.jpg"
+        "merged": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon.png"
     },
     {
         "merged": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/icon.png",
         "source": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/kitten.jpg",
+        "source": "/home/manthan/Development/android/Workspace/IBMHackathon/alchemyapi/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kitten.jpg"
+    },
+    {
+        "merged": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/kitten.jpg",
+        "source": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/drawable-hdpi-v4/kitten.jpg"
     }
 ]

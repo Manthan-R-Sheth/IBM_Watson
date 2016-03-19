@@ -288,5 +288,295 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 52,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 52,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 52,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 52,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 52,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 57,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 57,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 64,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 64,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 52,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 52,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 54,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 54,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 52,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 52,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 44,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 44,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 74,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 74,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 41,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 41,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 62,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 62,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 62,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 62,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 62,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "/home/shubham/projects/androidpro/IBM_Watson/alchemyapi/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endColumn": 62,
+                        "endOffset": 896
+                    }
+                }
+            }
+        ]
     }
 ]
